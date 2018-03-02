@@ -14,7 +14,7 @@ class DataProvider extends AbstractDataProvider
     {
         $ret = [array(
             "title"=>"Some Text"
-        )]
+        )];
         
         return $ret;
     }
